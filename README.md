@@ -1,2 +1,3 @@
 # Projects
-This is a simple program that generates a random password with the simple click of a button.
+Open the .exe file to check out the program.
+It's simple program that generates a random password.
